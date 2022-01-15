@@ -1,0 +1,13 @@
+body {
+  user-select: none;
+  cursor: default;
+  background-color: #fff;
+}
+
+.yellow {
+  color: #ffee75;
+}
+
+.bgYellow {
+  background-color: #ffee75;
+}
